@@ -1,0 +1,22 @@
+{
+  "name": "angular_operative_project",
+  "version": "1.0.0",
+  "description": "SSE Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swathidas/sse.git"
+  },
+  "author": "Swathi Dasari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swathidas/sse/issues"
+  },
+  "homepage": "https://github.com/swathidas/sse#readme",
+  "dependencies": {
+    "@angular/cli": "^7.0.7"
+  }
+}
