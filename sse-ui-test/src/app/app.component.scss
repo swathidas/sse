@@ -7,13 +7,13 @@
 
   .grid-item {
     background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid lightslategray;
+    border: 2px dashed rgb(236, 8, 141);
     padding: 20px;
     font-size: 30px;
     text-align: center;
     margin: 2rem;
   }
-
+ 
   .hide {
       display: none;
   }
